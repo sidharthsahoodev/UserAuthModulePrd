@@ -4,10 +4,15 @@ Prompt Used:
 
 
 User Auth Module
+
 User can create an account with email & password manually
+
 User will receive a verification email link on account creation
+
 User can log into the platform with email & password manually
+
 User can recover the password with forgot password feature
+
 
 
 
